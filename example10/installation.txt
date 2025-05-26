@@ -1,0 +1,10 @@
+//create a folder
+//open the terminal
+//get inside the folder = cd folder_name
+
+npm install ethers
+npm init -y
+open "infura.io" create your first project and get api
+create file name "test.js"
+write the script
+run the script = node test.js
