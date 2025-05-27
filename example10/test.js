@@ -13,3 +13,4 @@ async function getBalance() {
     console.log(`Balance: ${ethers.formatEther(balance)} ETH`);
 }
 
+getBalance()
